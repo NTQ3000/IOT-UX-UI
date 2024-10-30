@@ -1,0 +1,44 @@
+<RCC>
+  <qresource prefix="onandoff">
+    <file>power-button.png</file>
+    <file>power-on.png</file>
+  </qresource>
+  <qresource prefix="mode">
+    <file>game-controller.png</file>
+    <file>hot-deal.png</file>
+    <file>sleeping.png</file>
+  </qresource>
+  <qresource prefix="clear">
+    <file>cleaning.png</file>
+  </qresource>
+  <qresource prefix="exit">
+    <file>exit.png</file>
+  </qresource>
+  <qresource prefix="tv">
+    <file>tv_off.png</file>
+    <file>tv_on.png</file>
+  </qresource>
+  <qresource prefix="ac">
+    <file>ac_max.png</file>
+    <file>ac_off.png</file>
+    <file>ac_on.png</file>
+  </qresource>
+  <qresource prefix="lamp">
+    <file>lamp_off - Copy.png</file>
+    <file>lamp_off - Copy - Copy.png</file>
+    <file>lamp_on1 - Copy.png</file>
+    <file>lamp_on2.png</file>
+    <file>lamp_on3.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>logo.png</file>
+  </qresource>
+  <qresource prefix="toggle">
+    <file>left.png</file>
+    <file>right.png</file>
+  </qresource>
+  <qresource prefix="background">
+    <file>130-hinh-nen-may-tinh-4k-89-1024x640.jpg</file>
+    <file>images.jpg</file>
+  </qresource>
+</RCC>
